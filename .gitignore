@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*_profile/
+yupoo_profile/
+temp_images/
+client_secret*.json
+token*.json
+*cache*.json
+*.log
+config.json
